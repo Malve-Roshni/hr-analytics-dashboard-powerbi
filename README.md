@@ -115,3 +115,4 @@ HR Analytics Dashboard using Power BI: This interactive dashboard provides insig
 The dashboard leverages Power BI visuals, DAX measures to highlight trends in employee
 👉 **GitHub Repository:** [HR Analytics Dashboard](https://github.com/Malve-Roshni/hr-analytics-dashboard-powerbi)
 
+---
