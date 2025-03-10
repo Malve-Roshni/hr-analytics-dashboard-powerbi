@@ -113,6 +113,5 @@ cd hr_analytics_dashboard
 HR Analytics Dashboard using Power BI: This interactive dashboard provides insights into employee data, covering key metrics such as Total Employees, Attrition Rate, Active Employees, and Job Satisfaction Ratings.
 
 The dashboard leverages Power BI visuals, DAX measures to highlight trends in employee
-👉 **GitHub Repository:** [HR Analytics Dashboard]https://github.com/Malve-Roshni/hr-analytics-dashboard-powerbi.git
-
+👉 **GitHub Repository:** [HR Analytics Dashboard](https://github.com/Malve-Roshni/hr-analytics-dashboard-powerbi)
 
